@@ -21,6 +21,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louisedevs&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<br>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
