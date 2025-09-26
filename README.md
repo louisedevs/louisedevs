@@ -11,3 +11,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=louisedevs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louisedevs&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
+    <img alt="snake" src="dist/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
