@@ -30,3 +30,14 @@
     <img alt="snake" src="dist/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+<h3 align="center">Acesse meu Currículo:</h3>
+
+<p align="center">
+  <a href="https://louisedevs.github.io/Curriculo_Louise.html" target="_blank">
+    <img alt="Visualizar Currículo" src="https://img.shields.io/badge/Visualizar%20Currículo-Ver%20Online-1e3a8a?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="Curriculo_Louise_Dias.pdf" download>
+    <img alt="Baixar PDF" src="https://img.shields.io/badge/Currículo%20PDF-Download-dc2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
