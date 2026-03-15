@@ -14,22 +14,11 @@
 
 ---
 
-## 📄 Acesse Meu Currículo
-
-<div align="center">
-
-[![Visualizar Online](https://img.shields.io/badge/🌐_Ver_no_Navegador-HTML-1e3a8a?style=for-the-badge&logo=html5&logoColor=white)](https://louisedevs.github.io/Curriculo_Louise.html)
-[![Download PDF](https://img.shields.io/badge/📥_Baixar-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/22958977/Curriculo_Louise_Dias.pdf)
-
-</div>
-
----
-
 ## 🚀 Sobre Mim
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na PUC Minas  
 💻 Apaixonada por **backend**, **análise de dados** e **cloud computing**  
-🌱 Atualmente aprendendo **AWS**, **Power BI** e **Java**  
+🌱 Atualmente aprendendo **SQL**, **Python** e **Java**  
 🔍 Buscando oportunidades como **estagiária** ou **desenvolvedora júnior**
 
 ---
@@ -37,17 +26,11 @@
 ## 🛠️ Tecnologias que Estou Estudando
 
 <div align="center">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Django" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="VS Code" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Power BI" height="40" width="50" src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg">
 </div>
 
 ---
@@ -67,7 +50,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louisedias-ti/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louisediasdev@gmail.com)
-[![X/Twitter](https://img.shields.io/badge/-@FlorDeCode-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/FlorDeCode)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/louisedevs)
 
 </div>
